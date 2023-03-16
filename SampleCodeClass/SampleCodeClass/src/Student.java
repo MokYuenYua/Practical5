@@ -15,6 +15,10 @@ public class Student {
     int SQAT;
     int SEAM;
     int FM;
+
+    void myTest(){
+        
+    }
    
     double getAverageMark()
     {
